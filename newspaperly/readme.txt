@@ -3,8 +3,8 @@
 Contributors: ThemeEverest  
 Requires at least: 4.0  
 Tested up to: 5.9
-Stable tag: 3.8
-Version: 3.8
+Stable tag: 6.4
+Version: 6.4
 Author URI http://superbthemes.com/  
 Theme URI https://superbthemes.com/newspaperly/newspaperly-info/
 License: GPLv2 or later  
@@ -20,7 +20,7 @@ NewsPaperly is designed for blogs, magazines, newspapers, and writers in general
  
 ## Copyright
 
-NewsPaperly WordPress Theme, Copyright 2022 ThemeEverest
+NewsPaperly WordPress Theme, Copyright 2026 ThemeEverest
 NewsPaperly is distributed under the terms of the GNU GPL
 
 NewsPaperly bundles the following third-party resources:
